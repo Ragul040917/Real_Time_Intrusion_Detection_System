@@ -56,3 +56,18 @@ streamlit run app.py
 Step 5: Open in Browser
 
 After running the command, the Streamlit dashboard will open automatically in your browser.
+
+
+
+OUTPUT : 
+
+
+
+<img width="1165" height="829" alt="Screenshot 2026-03-19 210458" src="https://github.com/user-attachments/assets/dcf8fd01-7d2d-4f3e-b33a-0d27b1508fc7" />
+<img width="1007" height="848" alt="Screenshot 2026-03-19 211655" src="https://github.com/user-attachments/assets/1c2b8a44-73f2-46f5-bef3-328c979f45fa" />
+<img width="412" height="544" alt="Screenshot 2026-03-19 212035" src="https://github.com/user-attachments/assets/2a9b842c-9322-414c-92d4-6088a3ee7627" />
+<img width="877" height="655" alt="Screenshot 2026-03-19 212106" src="https://github.com/user-attachments/assets/8acb3b01-e96b-41ce-9db1-0b03983c187f" />
+
+
+
+
